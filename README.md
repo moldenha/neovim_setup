@@ -8,7 +8,7 @@ This is my neovim setup, it works well for me. If I add any more packages or con
 
 ```bash
 // naviage to -> ~/.config
-git clone --recursive github.com/moldenha/neovim_setup.git nvim
+git clone --recursive https://github.com/moldenha/neovim_setup nvim
 // test:
 nvim nvim/init.lua
 ```
